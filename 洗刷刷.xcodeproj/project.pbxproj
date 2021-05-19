@@ -13,6 +13,8 @@
 		578635E9265501A30036D2A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 578635E7265501A30036D2A7 /* Main.storyboard */; };
 		578635EB265501A40036D2A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 578635EA265501A40036D2A7 /* Assets.xcassets */; };
 		578635EE265501A40036D2A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 578635EC265501A40036D2A7 /* LaunchScreen.storyboard */; };
+		57E3144A26552D7300504F52 /* TaipeiSansTCBeta-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 57E3144926552D7300504F52 /* TaipeiSansTCBeta-Bold.ttf */; };
+		57E3144C26553D2B00504F52 /* TaipeiSansTCBeta-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 57E3144B26553D2B00504F52 /* TaipeiSansTCBeta-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		578635EA265501A40036D2A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		578635ED265501A40036D2A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		578635EF265501A40036D2A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57E3144926552D7300504F52 /* TaipeiSansTCBeta-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TaipeiSansTCBeta-Bold.ttf"; sourceTree = "<group>"; };
+		57E3144B26553D2B00504F52 /* TaipeiSansTCBeta-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TaipeiSansTCBeta-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		578635E0265501A30036D2A7 /* 洗刷刷 */ = {
 			isa = PBXGroup;
 			children = (
+				57E3144B26553D2B00504F52 /* TaipeiSansTCBeta-Regular.ttf */,
+				57E3144926552D7300504F52 /* TaipeiSansTCBeta-Bold.ttf */,
 				578635E1265501A30036D2A7 /* AppDelegate.swift */,
 				578635E3265501A30036D2A7 /* SceneDelegate.swift */,
 				578635E5265501A30036D2A7 /* ViewController.swift */,
@@ -127,6 +133,8 @@
 				578635EE265501A40036D2A7 /* LaunchScreen.storyboard in Resources */,
 				578635EB265501A40036D2A7 /* Assets.xcassets in Resources */,
 				578635E9265501A30036D2A7 /* Main.storyboard in Resources */,
+				57E3144A26552D7300504F52 /* TaipeiSansTCBeta-Bold.ttf in Resources */,
+				57E3144C26553D2B00504F52 /* TaipeiSansTCBeta-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
